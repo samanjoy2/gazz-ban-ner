@@ -2,7 +2,7 @@
 
 Official Codes of the paper: <i>Gazetteer-Enhanced Bangla Named Entity Recognition with BanglaBERT Semantic Embeddings K-Means-Infused CRF Model</i>
 
-Paper Link : 
+Paper Link : https://arxiv.org/abs/2401.17206
 
 ## Basics
 
